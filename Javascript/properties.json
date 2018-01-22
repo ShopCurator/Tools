@@ -1,0 +1,9 @@
+{
+  "pages": {
+    "loginPage": {
+      "usernameElement":"//*[@name=\"username\"]",
+      "passwordElement":"//*[@name=\"password\"]"
+    },
+    "HomePage": "d"
+  }
+}
